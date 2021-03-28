@@ -1,26 +1,28 @@
-# O Aplicativo Spiser
+# The Spiser App
 
-O projeto Spiser:<br/> O Aplicativo Spiser foi desenvolvido como requisito para a realização de meu Trabalho de Conclusão de Curso na escola técnica ETEC Raposo Tavares.<br/>
-Aplicativo mobile desenvolvido utilizando Dart e Flutter.<br/>
-Agradeço ao professor Daniel Ciolfi pelo conhecimento lecionado em seu curso, pois o mesmo foi de extrema ajuda e importância para a realização do projeto como um todo.
+The Spiser project:<br/> The Spiser App was developed was a requirement for my Course Completion Work at ETEC Raposo Tavares.<br/>
+Mobile App developed using Dart and Flutter.<br/>
+I thank Professor Daniel Ciolfi for the knowledge given in his course, as they were extremely useful and important for the realization of the project as a whole.
 
 ![](header.png)
 
-## Conheça nosso projeto
+## Know our project
 
-O sistema de aprimoramento no atendimento dos restaurantes, entitulado de Spiser, é um projeto desenvolvido para a obtenção do diploma do curso técnico de informática da ETEC Raposo Tavares.<br/>
-O Spiser é o primeiro aplicativo desenvolvido visando este projeto. <br/>
-Seu objetivo é dar a total liberdade para o cliente do estabelecimento realizar seus pedidos individualmente. Utilizando o aplicativo em seu smartphone, o cliente poderá: <br/>-Realizar seu cadastro ou fazer login caso tenha se registrado anteriormente;<br/>-Acessar o cardápio e ver todos os produtos que o estabelecimento oferece;<br/>-Ver informações sobre o produto (Nome, preço, tamanho, entre outros);<br/>-Adicionar o pedido desejado ao carrinho, aplicar o cupom de desconto e a mesa onde o mesmo está localizado;<br/>-Ter ciência do preço final de sua conta;<br/>-Acompanhar o status de seu pedido.<br/> Todas essas funções poderiam ser realizadas pelos clientes do estabelecimento diretamente de seus smartphones, em uma interface limpa, fluída e de fácil utilização.
+The restaurant service improvement system, named Spiser, is a project developed to obtain the diploma of the technical course of ETEC Raposo Tavares.<br/>
+Spiser is the first application developed for this project. <br/>
+Its objective is to give total freedom to the customer of the establishment to place their orders individually. Using the application on his smartphone, the customer will be able to: 
+<br/>- Perform your registration or login if you have already registered;
+<br/>- Access the menu and see all the products that the establishment offers;
+<br/>- View information about the product (Name, price, size, among others);
+<br/>- Add the desired order to the cart, apply the discount coupon and the table where the customer is;
+<br/>- Be aware of the final price of your order;
+<br/>- Track the status of your order.
+<br/> All of these functions can be performed by the establishment's customers directly from their smartphones, in a clean, fluid and easy-to-use interface.
 
-_Acesse nosso website, [clique aqui][projeto] e saiba mais sobre o projeto._
+_Visite our website, [click here][projeto] and learn more about the project._
 
-## Teste o Spiser Manager
+## Contact
 
-Realize o download agora mesmo pelo nosso [website][projeto] e analise na prática todas as funções deste sistema.<br/>
-Disponível para o sistema operacional Android.<br/>
-
-## Contato
-
-Matheus Henrique Rodrigues da Silva - [LinkedIn](https://www.linkedin.com/in/matheus-henrique-rodrigues-da-silva-4aa431188/) - mathhenry395@gmail.com
+Matheus Henrique Rodrigues da Silva - [LinkedIn](https://www.linkedin.com/in/batheusdev/) - batheus.dev@gmail.com
 
 [projeto]: https://spiser-tcc.web.app/
